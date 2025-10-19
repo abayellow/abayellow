@@ -49,5 +49,5 @@
 
 ### `Контакты`
 
-- Email: [sasha.abanshin@gmail.com](iamalexros@gmail.com)  
+- Email: [iamalexros@gmail.com](iamalexros@gmail.com)  
 - Telegram: [@abaaleks](https://t.me/abaaleks)
